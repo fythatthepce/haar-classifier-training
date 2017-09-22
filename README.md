@@ -29,7 +29,7 @@ $git clone https://github.com/fythatthepce/haar-classifier-training.git
 
 
 4.Get a lot of images pictures(Only bmp,jpg,jpeg,png image) and same size to positive_images floder<br>
-Note: I use 24 images and size 240*240  search by fill size in google
+Note: I use 24 images and size 240*240  search by fill size in google<br>
 <br>
 5.Make xml by use haar-object-marker to object markings and make xml by classifier-training
 <br>
