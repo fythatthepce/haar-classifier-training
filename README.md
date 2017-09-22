@@ -16,7 +16,7 @@ https://github.com/sonots/imageclipper/blob/master/haartrainingformat.pl<br>
 <br>----------------------------------------------------------------------------------------<br>
 
 <br>
-<B>How to use</B>
+<B>How to use : </B>
 <br>
 <br>
 
