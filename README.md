@@ -17,9 +17,8 @@ https://github.com/sonots/imageclipper/blob/master/haartrainingformat.pl<br>
 $sudo apt-get install git
 <br>
 
-<<<<<<< HEAD
 2.Clone git<br>
-$git clone /fythatthepce/
+$git clone /fythatthepce/<br>
 <br>
 
 3.Install<br>
@@ -27,13 +26,11 @@ $git clone /fythatthepce/
   $cd haar-classifier-training<br>
   $sudo chmod 777 install.sh<br>
   $./install.sh<br>
-=======
-2.Clone git
+
+2.Clone git<br>
 $git clone https://github.com/fythatthepce/haar-classifier-training.git
->>>>>>> master
 
-
-4.Get a lot of images pictures(Only bmp,jpg,jpeg,png image) and same size to positive_images floder
+4.Get a lot of images pictures(Only bmp,jpg,jpeg,png image) and same size to positive_images floder<br>
 Note: I use 24 images and size 240*240  search by fill size in google
 <br>
 5.Make xml by use haar-object-marker to object markings and make xml by classifier-training
