@@ -1,4 +1,13 @@
 #!/bin/bash
+#################################################################
+# Feez CE KMITL
+# Name              : install.py
+# Version           : 1
+# Date created on   : 22 September 2017
+# Date modified on  : 22 September 2017
+# Description       : Main install for haar-classifier-training 
+#################################################################
+              
 cd
 sudo chmod 777 -R haar-classifier-training
 sudo apt-get install python-opencv

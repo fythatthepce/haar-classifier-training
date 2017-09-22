@@ -1,4 +1,12 @@
 #!/bin/bash
+#################################################################
+# Feez CE KMITL
+# Name              : makexml.py
+# Version           : 1
+# Date created on   : 22 September 2017
+# Date modified on  : 22 September 2017
+# Description       : Easy script for haar-classifier-training                 
+#################################################################
 cd
 sudo chmod 777 -R haar-classifier-training
 cd haar-classifier-training/positive_images
