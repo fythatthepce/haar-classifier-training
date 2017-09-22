@@ -17,7 +17,7 @@ https://github.com/sonots/imageclipper/blob/master/haartrainingformat.pl
 $sudo apt-get install git
 
 2.Clone git
-$git clone /fythatthepce/
+$git clone https://github.com/fythatthepce/haar-classifier-training.git
 
 3.Install
   $cd
