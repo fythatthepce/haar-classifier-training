@@ -18,7 +18,7 @@ $sudo apt-get install git
 <br>
 
 2.Clone git<br>
-$git clone /fythatthepce/<br>
+$git clone https://github.com/fythatthepce/haar-classifier-training.git
 <br>
 
 3.Install<br>
@@ -27,8 +27,6 @@ $git clone /fythatthepce/<br>
   $sudo chmod 777 install.sh<br>
   $./install.sh<br>
 
-2.Clone git<br>
-$git clone https://github.com/fythatthepce/haar-classifier-training.git
 
 4.Get a lot of images pictures(Only bmp,jpg,jpeg,png image) and same size to positive_images floder<br>
 Note: I use 24 images and size 240*240  search by fill size in google
