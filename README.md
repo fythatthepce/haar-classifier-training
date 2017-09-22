@@ -13,6 +13,12 @@ http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html<br>
 https://github.com/mrnugget/opencv-haar-classifier-training/issues/24<br>
 https://github.com/sonots/imageclipper/blob/master/haartrainingformat.pl<br>
 
+<br>----------------------------------------------------------------------------------------<br>
+
+<br>
+<B>How to use</B>
+<br>
+
 1.Install git<br>
 $sudo apt-get install git
 <br>
