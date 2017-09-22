@@ -2,7 +2,7 @@
 #!/bin/bash
 #################################################################
 # Feez CE KMITL
-# Name              : objmaker.py
+# Name              : objmaker.sh
 # Version           : 1
 # Date created on   : 22 September 2017
 # Date modified on  : 22 September 2017

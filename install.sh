@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################################################
 # Feez CE KMITL
-# Name              : install.py
+# Name              : install.sh
 # Version           : 1
 # Date created on   : 22 September 2017
 # Date modified on  : 22 September 2017
